@@ -22,6 +22,11 @@ li a {
 li a:hover {
   background-color: #111;
 }
+.container {
+  margin: auto;
+  width: 50%;
+  outline: dashed 1px rgb(134, 65, 65);
+}
 
 .center {
   display: block;
