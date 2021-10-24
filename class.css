@@ -25,7 +25,7 @@ li a:hover {
 .container {
   margin: auto;
   width: 50%;
-  outline: dashed 1px black;
+  outline: dashed 1px rgb(134, 65, 65);
 }
 
 .child {
