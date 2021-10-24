@@ -22,16 +22,10 @@ li a {
 li a:hover {
   background-color: #111;
 }
-.container {
-  margin: auto;
-  width: 50%;
-  outline: dashed 1px rgb(134, 65, 65);
-}
 
-.child {
-  width: 50px;
-  height: 50px;
-  background-color: rgb(9, 255, 0);
-  /* Center horizontally*/
-  margin: 0 auto;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
