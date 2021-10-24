@@ -22,3 +22,19 @@ li a {
 li a:hover {
   background-color: #111;
 }
+.container {
+  font-family: arial;
+  font-size: 24px;
+  margin: 25px;
+  width: 350px;
+  height: 200px;
+  outline: dashed 1px black;
+}
+
+.child {
+  width: 50px;
+  height: 50px;
+  background-color: rgb(9, 255, 0);
+  /* Center horizontally*/
+  margin: 0 auto;
+}
