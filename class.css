@@ -23,11 +23,8 @@ li a:hover {
   background-color: #111;
 }
 .container {
-  font-family: arial;
-  font-size: 24px;
-  margin: 25px;
-  width: 350px;
-  height: 200px;
+  margin: auto;
+  width: 50%;
   outline: dashed 1px black;
 }
 
